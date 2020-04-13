@@ -2,7 +2,7 @@
   <rect width="32" height="26" fill="#2d2d2d"/>
   <rect width="32" height="1" fill="#ffffff" fill-opacity=".1"/>
   <g fill="#ffffff">
-    <circle cx="16" cy="13" r="12" opacity=".08"/>
+    <circle cx="16" cy="13" r="12" opacity=".7" fill="#e53935"/>
     <path d="M21 9.41L19.59 8 16 11.59 12.41 8 11 9.41 14.59 13 11 16.59 12.41 18 16 14.41 19.59 18 21 16.59 17.41 13z" opacity=".6"/>
   </g>
 </svg>
